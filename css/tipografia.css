@@ -1,0 +1,43 @@
+@charset "utf-8";
+.titulos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #009;
+	text-align: left;
+}
+.subtitulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #009;
+	text-align: left;
+}
+.textogeneral {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #00C;
+	text-align: justify;
+}
+.titulo01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #009;
+	text-align: center;
+}
+.piedepagina {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 8px;
+	font-weight: normal;
+	color: #333;
+	text-align: right;
+}
+.panel {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #009;
+	text-align: center;
+}

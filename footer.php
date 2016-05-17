@@ -1,0 +1,10 @@
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 20px;">
+	<tr>
+		<th width="900" align="right" bgcolor="#EEE" scope="col"><h5 class="footer"><span class="piedepagina">© Caltec <?php echo date('Y');?> - Todos los Derechos Reservados</span></h5></th>
+	</tr>
+</table>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"assets/SpryMenuBarDownHover.gif", imgRight:"assets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>

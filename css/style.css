@@ -1,0 +1,32 @@
+h5.footer{
+	height: 37px;
+	margin: 0;
+}
+.piedepagina{
+	font-size: 1em;
+	line-height: 1em;
+	padding: 0.9em 0.5em 0.9em 0;
+	display: block;
+	color: #2a234d;
+}
+#planraee{
+	background: url('../images/planraee01.jpg');
+	width: 72px;
+	height: 24px;
+	-webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+}
+#planraee:hover{
+	background: url('../images/planraee02.jpg');
+	-webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+}
+#planraee a{
+	width: 100%;
+	height: 100%;
+	display: block;
+}

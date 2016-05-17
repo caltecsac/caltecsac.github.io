@@ -1,0 +1,8 @@
+
+USE `fop2`;
+
+ALTER TABLE `visual_phonebook` add `owner` varchar(50) default '';
+ALTER TABLE `visual_phonebook` add `private` enum('yes','no') default 'no';
+ALTER TABLE `visual_phonebook` add `context` varchar(150) default '';
+
+
