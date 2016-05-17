@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?html include('header.html'); ?>
 
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tr>
@@ -96,4 +96,4 @@
 		<p class="textogeneral">ONT, Muxponder, Amplificadores.</p></td>
 	</tr>
 </table>
-<?php include('footer.php'); ?>
+<?html include('footer.html'); ?>

@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?html include('header.html'); ?>
 
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tr>
@@ -43,4 +43,4 @@
 		<p class="textogeneral">﻿Equipos integrados portátiles outdoor que permiten implementar una red de comunicaciones para voz, datos y video en menos de dos minutos en lugares de difícil acceso, zonas devastadas por desastres naturales, zonas donde se hacen patrullas militares, o en cualquier lugar donde se requiera transmitir algún evento de forma inmediata.</p></td>
 	</tr>
 </table>
-<?php include('footer.php'); ?>
+<?html include('footer.html'); ?>
